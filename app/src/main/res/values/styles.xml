@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="MySearchViewStyle" parent="Widget.AppCompat.SearchView">
+        <!-- Change the text color here -->
+        <item name="android:textColor">@color/purple</item>
+        <item name="android:textColorHint">@color/purple</item>
+        <item name="android:editTextColor">@color/purple</item>
+    </style>
+    <style name="AlertDialogStyle" parent="Widget.AppCompat.SearchView">
+        <!-- Change the text color here -->
+        <item name="android:background">@color/purple</item>
+        <item name="android:textColor">@color/yellow</item>
+        <item name="android:colorForeground">@color/yellow</item>
+        <item name="android:textColorAlertDialogListItem">@color/yellow</item>
+        <item name="android:windowIsFloating">true</item>
+    </style>
+    <style name="TopRightMenuStyle" parent="">
+    </style>
+</resources>

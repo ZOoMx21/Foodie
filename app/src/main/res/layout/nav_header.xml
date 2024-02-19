@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="250dp"
+    android:orientation="vertical"
+    android:padding="16dp"
+    android:background="@color/purple">
+
+    <ImageView
+        android:layout_width="80dp"
+        android:layout_height="80dp"
+        android:contentDescription="Navigation Drawer Header"
+        android:scaleType="centerCrop"
+        android:src="@drawable/img_logo" />
+
+
+    <TextView
+
+        android:id="@+id/headerEmail"
+        android:layout_width="match_parent"
+        android:layout_height="64dp"
+        android:fontFamily="@font/courgette"
+        android:gravity="bottom"
+        android:text="Foodie, your real kitchen partner."
+        android:textColor="@color/yellow"
+        android:textSize="18sp" />
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <ImageView
+            android:layout_width="50dp"
+            android:layout_height="56dp"
+
+            android:layout_marginTop="10dp"
+            android:paddingTop="5dp"
+            android:src="@drawable/ic_location"
+
+            />
+
+        <TextView
+
+            android:id="@+id/headerLocation"
+            android:layout_width="match_parent"
+            android:layout_height="54dp"
+            android:fontFamily="@font/courgette"
+            android:gravity="bottom"
+            android:text="Your location "
+            android:textColor="@color/yellow"
+            android:textSize="18sp" />
+    </LinearLayout>
+
+
+
+
+
+
+
+    <!-- Additional views for the header if desired -->
+
+</LinearLayout>

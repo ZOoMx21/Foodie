@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/menu_category1"
+        android:title="All" />
+    <item
+        android:id="@+id/menu_category2"
+        android:title="side dish" />
+    <item
+        android:id="@+id/menu_category3"
+        android:title="dessert" />
+    <item
+        android:id="@+id/menu_category4"
+        android:title="salad" />
+    <item
+        android:id="@+id/menu_category5"
+        android:title="bread" />
+    <item
+        android:id="@+id/menu_category6"
+        android:title="breakfast" />
+    <item
+        android:id="@+id/menu_category7"
+        android:title="soup" />
+    <item
+        android:id="@+id/menu_category8"
+        android:title="beverage" />
+    <item
+        android:id="@+id/menu_category9"
+        android:title="sauce" />
+    <item
+        android:id="@+id/menu_category10"
+        android:title="marinade" />
+    <item
+        android:id="@+id/menu_category11"
+        android:title="fingerfood" />
+    <item
+        android:id="@+id/menu_category12"
+        android:title="snack" />
+    <item
+        android:id="@+id/menu_category13"
+        android:title="drink" />
+    <!-- Add more menu items as needed -->
+</menu>

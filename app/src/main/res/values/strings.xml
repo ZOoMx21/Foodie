@@ -1,0 +1,271 @@
+<resources>
+    <string name="app_name">Foodie2</string>
+    <string name="api_Key">cab896988ca243e997677963de0608f1</string>
+    <string-array name="tags">
+        <item>main course</item>
+        <item>All</item>
+        <item>side dish</item>
+        <item>dessert</item>
+        <item>salad</item>
+        <item>bread</item>
+        <item>breakfast</item>
+        <item>soup</item>
+        <item>beverage</item>
+        <item>sauce</item>
+        <item>marinade</item>
+        <item>fingerfood</item>
+        <item>snack</item>
+        <item>drink</item>
+    </string-array>
+
+    <string-array name="Ingredients">
+        <item>avocado</item>
+        <item>almonds</item>
+        <item>apples</item>
+        <item>asparagus</item>
+        <item>all-purpose flour</item>
+        <item>anchovies</item>
+        <item>artichokes</item>
+        <item>arugula</item>
+        <item>apricots</item>
+        <item>almond milk</item>
+        <item>bacon</item>
+        <item>butter</item>
+        <item>basil</item>
+        <item>brown sugar</item>
+        <item>bananas</item>
+        <item>blueberries</item>
+        <item>broccoli</item>
+        <item>baguette</item>
+        <item>barbecue sauce</item>
+        <item>black beans</item>
+        <item>chicken</item>
+        <item>carrots</item>
+        <item>cilantro</item>
+        <item>cheddar cheese</item>
+        <item>cauliflower</item>
+        <item>cumin</item>
+        <item>cornstarch</item>
+        <item>coconut milk</item>
+        <item>cinnamon</item>
+        <item>celery</item>
+        <item>dill</item>
+        <item>dark chocolate</item>
+        <item>dijon mustard</item>
+        <item>dates</item>
+        <item>dried oregano</item>
+        <item>dried cranberries</item>
+        <item>duck</item>
+        <item>dill pickles</item>
+        <item>deli ham</item>
+        <item>dried basil</item>
+        <item>eggs</item>
+        <item>eggplant</item>
+        <item>edamame</item>
+        <item>extra virgin olive oil</item>
+        <item>english muffin</item>
+        <item>emmental cheese</item>
+        <item>espresso powder</item>
+        <item>enoki mushrooms</item>
+        <item>evaporated milk</item>
+        <item>elderberries</item>
+        <item>flour</item>
+        <item>fish sauce</item>
+        <item>feta cheese</item>
+        <item>fresh basil</item>
+        <item>fennel</item>
+        <item>farro</item>
+        <item>flaxseeds</item>
+        <item>figs</item>
+        <item>fresh ginger</item>
+        <item>fava beans</item>
+        <item>garlic</item>
+        <item>ginger</item>
+        <item>green onions</item>
+        <item>greek yogurt</item>
+        <item>gouda cheese</item>
+        <item>grapefruit</item>
+        <item>ground beef</item>
+        <item>garam masala</item>
+        <item>granola</item>
+        <item>green peas</item>
+        <item>honey</item>
+        <item>heavy cream</item>
+        <item>hazelnuts</item>
+        <item>hot sauce</item>
+        <item>hamburger buns</item>
+        <item>herbs de provence</item>
+        <item>hummus</item>
+        <item>halibut</item>
+        <item>harissa</item>
+        <item>honeydew melon</item>
+        <item>iceberg lettuce</item>
+        <item>italian seasoning</item>
+        <item>instant coffee</item>
+        <item>idaho potatoes</item>
+        <item>indian curry paste</item>
+        <item>irish whiskey</item>
+        <item>imitation vanilla extract</item>
+        <item>israeli couscous</item>
+        <item>ice cream</item>
+        <item>inca berries</item>
+        <item>jalapenos</item>
+        <item>jasmine rice</item>
+        <item>jackfruit</item>
+        <item>jicama</item>
+        <item>juniper berries</item>
+        <item>jaggery</item>
+        <item>japanese breadcrumbs (panko)</item>
+        <item>jerusalem artichoke</item>
+        <item>jarred salsa</item>
+        <item>jello</item>
+        <item>kale</item>
+        <item>kiwi</item>
+        <item>ketchup</item>
+        <item>kalamata olives</item>
+        <item>kidney beans</item>
+        <item>kabocha squash</item>
+        <item>kamut flour</item>
+        <item>kimchi</item>
+        <item>kohlrabi</item>
+        <item>kumquats</item>
+        <item>lemon</item>
+        <item>lime</item>
+        <item>lentils</item>
+        <item>lemongrass</item>
+        <item>lavender</item>
+        <item>leeks</item>
+        <item>linguine</item>
+        <item>lychee</item>
+        <item>lamb</item>
+        <item>licorice</item>
+        <item>milk</item>
+        <item>mushrooms</item>
+        <item>mozzarella cheese</item>
+        <item>mint</item>
+        <item>maple syrup</item>
+        <item>mustard</item>
+        <item>mango</item>
+        <item>macadamia nuts</item>
+        <item>miso</item>
+        <item>molasses</item>
+        <item>nutmeg</item>
+        <item>noodles</item>
+        <item>nectarines</item>
+        <item>nigella seeds</item>
+        <item>nutella</item>
+        <item>navy beans</item>
+        <item>nori (seaweed)</item>
+        <item>naan bread</item>
+        <item>neufchâtel cheese</item>
+        <item>non-dairy creamer</item>
+        <item>olive oil</item>
+        <item>oregano</item>
+        <item>onions</item>
+        <item>oranges</item>
+        <item>oatmeal</item>
+        <item>okra</item>
+        <item>oysters</item>
+        <item>oat flour</item>
+        <item>oat milk</item>
+        <item>olive tapenade</item>
+        <item>pasta</item>
+        <item>potatoes</item>
+        <item>parmesan cheese</item>
+        <item>paprika</item>
+        <item>pineapple</item>
+        <item>peanut butter</item>
+        <item>pears</item>
+        <item>pecans</item>
+        <item>pumpkin</item>
+        <item>pomegranate</item>
+        <item>quinoa</item>
+        <item>quince</item>
+        <item>quail eggs</item>
+        <item>quick oats</item>
+        <item>quattro formaggi cheese</item>
+        <item>quark</item>
+        <item>quahog clams</item>
+        <item>quail</item>
+        <item>quark cheese</item>
+        <item>quiche</item>
+        <item>rice</item>
+        <item>rosemary</item>
+        <item>red onions</item>
+        <item>raspberries</item>
+        <item>ricotta cheese</item>
+        <item>radishes</item>
+        <item>red bell peppers</item>
+        <item>rutabaga</item>
+        <item>raisins</item>
+        <item>ranch dressing</item>
+        <item>salt</item>
+        <item>sugar</item>
+        <item>soy sauce</item>
+        <item>spinach</item>
+        <item>sesame oil</item>
+        <item>sour cream</item>
+        <item>strawberries</item>
+        <item>shrimp</item>
+        <item>sunflower seeds</item>
+        <item>sweet potatoes</item>
+        <item>tomatoes</item>
+        <item>thyme</item>
+        <item>turmeric</item>
+        <item>tofu</item>
+        <item>tahini</item>
+        <item>tuna</item>
+        <item>tortillas</item>
+        <item>tarragon</item>
+        <item>tequila</item>
+        <item>truffle oil</item>
+        <item>udon noodles</item>
+        <item>unsalted butter</item>
+        <item>ugli fruit</item>
+        <item>umeboshi plums</item>
+        <item>urad dal</item>
+        <item>udon soup base</item>
+        <item>unsweetened chocolate</item>
+        <item>ugli tangelo</item>
+        <item>ube (purple yam)</item>
+        <item>udon condiment</item>
+        <item>vinegar</item>
+        <item>vanilla extract</item>
+        <item>vodka</item>
+        <item>vegetables</item>
+        <item>veal</item>
+        <item>vermicelli noodles</item>
+        <item>vinaigrette dressing</item>
+        <item>vegetable broth</item>
+        <item>vegetable oil</item>
+        <item>vegemite</item>
+        <item>water</item>
+        <item>wheat flour</item>
+        <item>whipped cream</item>
+        <item>walnuts</item>
+        <item>worcestershire sauce</item>
+        <item>watermelon</item>
+        <item>white onions</item>
+        <item>white wine</item>
+        <item>wakame seaweed</item>
+        <item>wasabi</item>
+        <item>yogurt</item>
+        <item>yams</item>
+        <item>yellow squash</item>
+        <item>yeast</item>
+        <item>yellow bell peppers</item>
+        <item>yuzu</item>
+        <item>yak</item>
+        <item>yellowfin tuna</item>
+        <item>yam beans</item>
+        <item>zucchini</item>
+        <item>zinfandel wine</item>
+        <item>zest of lemon</item>
+        <item>zest of lime</item>
+        <item>zest of orange</item>
+        <item>zaatar</item>
+        <item>ziti pasta</item>
+        <item>zevia soda</item>
+        <item>zucchini noodles</item>
+    </string-array>
+</resources>
